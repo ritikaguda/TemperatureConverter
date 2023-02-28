@@ -6,11 +6,10 @@ Find the project requirements here: [Temperature converter website](https://www.
 ## Tech/framework used
 Built with Angular JS
 
-## Screenshots and demo
-Screenshots of your app and/or a link to your live demo
-
 ## Installation
-Instructions for other developers on how to install and run your code on their local environment.
+1. On VS Code open the project folder.
+2. In terminal run "ng serve"
+3. Then open the "http://localhost:4200/" with your browser
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
