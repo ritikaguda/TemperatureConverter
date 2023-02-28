@@ -1,0 +1,18 @@
+h1{
+  padding-top: 20px;
+  position: relative;
+  top: 100px;
+  bottom: 50px;
+  right: 500px;
+  left: 600px;
+  width: 300px;
+}
+section {
+    padding-top: 20px;
+    position: relative;
+    top: 100px;
+    bottom: 50px;
+    right: 500px;
+    left: 600px;
+    width: 300px;
+  }
